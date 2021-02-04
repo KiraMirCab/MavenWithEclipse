@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;fibonacci&apos; to &apos;es.iessoterhernandez.endes&apos;&#x0D;&#x0A;- Original project: &apos;fibonacci&apos;&#x0D;&#x0A;- Original element: &apos;fibonacci/src/main/java/fibonacci&apos;&#x0D;&#x0A;- Renamed element: &apos;fibonacci/src/main/java/es.iessoterhernandez.endes&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;fibonacci&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;fibonacci" name="es.iessoterhernandez.endes" qualified="false" references="true" stamp="1608133210919" textual="false" version="1.0"/>
+</session>
