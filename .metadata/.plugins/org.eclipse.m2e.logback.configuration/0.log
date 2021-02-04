@@ -1171,3 +1171,6 @@ org.eclipse.core.runtime.CoreException: Launch configuration HelloWorld referenc
 2021-02-04 12:28:21,796 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\TestShopingCart\src\main\resources
 2021-02-04 12:28:21,799 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-02-04 12:28:21,799 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\TestShopingCart\src\test\resources
+2021-02-04 23:53:23,501 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-05 00:03:12,595 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-05 00:03:12,596 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\TestShopingCart\src\main\resources
