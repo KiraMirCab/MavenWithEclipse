@@ -1315,3 +1315,141 @@ org.eclipse.core.runtime.CoreException: Launch configuration HelloWorld referenc
 2021-02-07 18:07:35,832 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\TestShopingCart\src\main\resources
 2021-02-07 18:07:35,833 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-02-07 18:07:35,833 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\TestShopingCart\src\test\resources
+2021-02-07 18:09:39,062 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:09:39,063 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\TestShopingCart\src\main\resources
+2021-02-07 18:09:39,066 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:09:39,066 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\TestShopingCart\src\test\resources
+2021-02-07 18:55:27,992 [Worker-67: Creating java11-junit5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Kira\eclipse-workspace\BoletinJUnit\pom.xml
+2021-02-07 18:55:29,784 [Worker-67: Creating java11-junit5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myproject:BoletinJUnit:0.0.1-SNAPSHOT @ C:\Users\Kira\eclipse-workspace\BoletinJUnit\pom.xml.
+2021-02-07 18:55:31,411 [Worker-67: Creating java11-junit5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BoletinJUnit/src/main/java
+2021-02-07 18:55:31,423 [Worker-67: Creating java11-junit5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BoletinJUnit/src/test/java
+2021-02-07 18:55:32,228 [Worker-67: Creating java11-junit5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2021-02-07 18:55:33,813 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:55:33,813 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 18:55:33,815 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:55:33,815 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 18:55:48,315 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:55:48,316 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 18:55:48,318 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:55:48,319 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 18:55:56,452 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:55:56,452 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 18:55:56,458 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:55:56,458 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 18:56:52,495 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:56:52,496 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 18:56:52,499 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:56:52,499 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 18:57:18,353 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:57:18,354 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 18:57:18,356 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:57:18,356 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 18:58:05,238 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:58:05,239 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 18:58:05,241 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 18:58:05,241 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 19:13:30,936 [Worker-76: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myproject:BoletinJUnit:0.0.1-SNAPSHOT @ C:\Users\Kira\eclipse-workspace\BoletinJUnit\pom.xml.
+2021-02-07 19:13:31,539 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 19:13:31,539 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 19:13:31,542 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 19:13:31,543 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 19:13:34,471 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 19:13:34,472 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 19:13:34,474 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 19:13:34,474 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 19:40:47,514 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 19:40:47,515 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 19:40:47,517 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 19:40:47,518 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 22:32:01,301 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:32:01,301 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 22:32:01,302 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:32:01,303 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 22:35:33,694 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:35:33,695 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 22:35:33,696 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:35:33,697 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 22:38:25,984 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:38:25,984 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 22:38:25,987 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:38:25,987 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 22:41:09,381 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:41:09,381 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 22:41:09,382 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:41:09,382 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 22:41:43,667 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:41:43,667 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 22:41:43,669 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:41:43,670 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 22:45:24,612 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:45:24,612 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 22:45:24,614 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:45:24,614 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 22:46:15,665 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:46:15,666 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 22:46:15,667 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:46:15,668 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 22:47:22,317 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:47:22,317 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 22:47:22,320 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:47:22,320 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 22:56:14,270 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:56:14,270 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 22:56:14,272 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:56:14,273 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 22:57:16,591 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:57:16,591 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 22:57:16,593 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:57:16,594 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 22:58:28,309 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:58:28,309 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 22:58:28,311 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 22:58:28,311 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 23:02:32,865 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:02:32,865 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 23:02:32,866 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:02:32,867 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 23:03:07,518 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:03:07,518 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 23:03:07,520 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:03:07,521 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 23:03:29,680 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:03:29,680 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 23:03:29,682 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:03:29,682 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 23:07:43,511 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:07:43,512 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 23:07:43,513 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:07:43,514 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 23:12:22,348 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:12:22,349 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 23:12:22,351 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:12:22,351 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 23:27:50,882 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:27:50,883 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 23:27:50,884 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:27:50,885 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 23:28:21,988 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:28:21,988 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 23:28:21,990 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:28:21,990 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 23:31:55,325 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:31:55,325 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 23:31:55,327 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:31:55,327 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 23:33:59,205 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:33:59,206 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 23:33:59,207 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:33:59,207 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 23:36:24,448 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:36:24,448 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 23:36:24,450 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:36:24,450 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 23:37:19,808 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:37:19,809 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 23:37:19,810 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:37:19,810 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-07 23:38:04,147 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:38:04,147 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-07 23:38:04,149 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-07 23:38:04,149 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources

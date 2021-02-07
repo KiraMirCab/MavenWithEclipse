@@ -5,3 +5,4 @@ eclipse.m2.runtimesNodes/apache-maven/location=C\:\\Program Files\\apache-maven-
 eclipse.m2.runtimesNodes/apache-maven/type=EXTERNAL
 eclipse.m2.userSettingsFile=C\:\\Program Files\\apache-maven-3.6.3\\conf\\settings.xml
 eclipse.preferences.version=1
+enableSnapshotArchetypes=true
