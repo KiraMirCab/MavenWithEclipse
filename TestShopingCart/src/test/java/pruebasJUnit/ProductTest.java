@@ -6,34 +6,26 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class ProductTest {
 
+class ProductTest {
+	Product p;
+	
 	@BeforeEach
-	void setUp() throws Exception {
+	void setUp() {
+		p = new Product("Teclado", 25.05);
 	}
 
 	@AfterEach
-	void tearDown() throws Exception {
-	}
-
-	@Test
-	void testProduct() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testGetTitle() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testGetPrice() {
-		fail("Not yet implemented");
+	void tearDown() {
+		p = null;
 	}
 
 	@Test
 	void testEqualsObject() {
-		fail("Not yet implemented");
+		Product p1 = p;
+		assertEquals(p1, p);
+		p1 = new Product("Teclado", 20.0);
+		assertEquals(p1, p);
 	}
 
 }
