@@ -8,6 +8,7 @@ public class Cuenta
 	protected String mTitular;
 	protected Vector mMovimientos;	
 
+	
 	public Cuenta(String numero, String titular)
 	{
 		mNumero=numero;

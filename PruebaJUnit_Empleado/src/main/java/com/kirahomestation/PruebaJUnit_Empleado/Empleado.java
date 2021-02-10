@@ -1,4 +1,4 @@
-package empleado;
+package com.kirahomestation.PruebaJUnit_Empleado;
 
 /**
  * Clase Empleado

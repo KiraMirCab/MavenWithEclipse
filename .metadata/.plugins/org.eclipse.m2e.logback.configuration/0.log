@@ -2175,3 +2175,302 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.junit.pla
 2021-02-10 02:45:44,145 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
 2021-02-10 02:45:44,146 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-02-10 02:45:44,146 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-10 02:53:56,486 [Worker-206: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 02:53:56,489 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 02:53:56,489 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\main\resources
+2021-02-10 02:53:56,490 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 02:53:56,491 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\BoletinJUnit\src\test\resources
+2021-02-10 09:25:31,513 [Worker-214: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 09:25:31,540 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 09:25:31,540 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 09:25:31,543 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 09:25:31,544 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 15:37:50,893 [Worker-245: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 15:37:50,933 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:37:50,934 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 15:37:50,936 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:37:50,937 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 15:42:08,669 [Worker-245: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 15:42:12,736 [Worker-245: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kirahomestation:Prueba_JUnit:0.0.1-SNAPSHOT @ C:\Users\Kira\eclipse-workspace\Prueba_JUnit\pom.xml.
+2021-02-10 15:42:13,305 [Worker-245: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 15:42:13,843 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:42:13,843 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 15:42:13,845 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:42:13,845 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 15:42:15,975 [Worker-245: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 15:42:15,978 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:42:15,978 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 15:42:15,979 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:42:15,979 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 15:42:30,355 [Worker-247: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 15:42:30,373 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:42:30,373 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 15:42:30,374 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:42:30,374 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 15:45:07,589 [Worker-247: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 15:45:07,591 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:45:07,591 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 15:45:07,592 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:45:07,592 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 15:47:02,650 [Worker-248: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 15:47:02,654 [Worker-248: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:47:02,654 [Worker-248: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 15:47:02,655 [Worker-248: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:47:02,655 [Worker-248: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 15:49:28,867 [Worker-249: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 15:49:28,869 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:49:28,869 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 15:49:28,870 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:49:28,870 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 15:52:27,485 [Worker-245: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 15:52:27,488 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:52:27,488 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 15:52:27,490 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:52:27,490 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 15:52:51,116 [Worker-242: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 15:52:51,120 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:52:51,120 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 15:52:51,144 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:52:51,144 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 15:53:10,688 [Worker-250: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 15:53:10,690 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:53:10,690 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 15:53:10,691 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 15:53:10,692 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 16:05:14,606 [Worker-251: Launching CuentaTest] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 16:05:14,609 [Worker-251: Launching CuentaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:05:14,609 [Worker-251: Launching CuentaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 16:05:14,610 [Worker-251: Launching CuentaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:05:14,610 [Worker-251: Launching CuentaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 16:13:36,481 [Worker-262: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 16:13:36,484 [Worker-262: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:13:36,484 [Worker-262: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 16:13:36,485 [Worker-262: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:13:36,485 [Worker-262: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 16:15:28,147 [Worker-262: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 16:15:28,150 [Worker-262: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:15:28,150 [Worker-262: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 16:15:28,151 [Worker-262: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:15:28,152 [Worker-262: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 16:22:47,011 [Worker-259: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 16:22:47,014 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:22:47,014 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 16:22:47,015 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:22:47,015 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 16:25:29,127 [Worker-259: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 16:25:29,129 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:25:29,130 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 16:25:29,131 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:25:29,131 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 16:26:56,132 [Worker-261: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 16:26:56,135 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:26:56,135 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 16:26:56,136 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:26:56,137 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 16:27:14,095 [Worker-261: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 16:27:14,098 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:27:14,098 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 16:27:14,100 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:27:14,100 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 16:27:19,741 [Worker-261: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 16:27:19,743 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:27:19,743 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 16:27:19,745 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:27:19,745 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 16:27:52,987 [Worker-263: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 16:27:52,990 [Worker-263: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:27:52,990 [Worker-263: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 16:27:52,991 [Worker-263: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 16:27:52,991 [Worker-263: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:01:12,250 [Worker-268: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:01:12,258 [Worker-268: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:01:12,258 [Worker-268: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:01:12,259 [Worker-268: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:01:12,259 [Worker-268: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:03:46,889 [Worker-267: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:03:46,909 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:03:46,909 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:03:46,910 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:03:46,910 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:04:36,998 [Worker-271: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:04:37,001 [Worker-271: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:04:37,001 [Worker-271: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:04:37,002 [Worker-271: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:04:37,002 [Worker-271: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:05:47,105 [Worker-272: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:05:47,107 [Worker-272: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:05:47,108 [Worker-272: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:05:47,108 [Worker-272: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:05:47,109 [Worker-272: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:10:10,165 [Worker-267: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:10:10,167 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:10:10,168 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:10:10,168 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:10:10,169 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:23:47,865 [Worker-276: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:23:47,868 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:23:47,868 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:23:47,869 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:23:47,869 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:30:22,069 [Worker-281: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:30:22,071 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:30:22,072 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:30:22,072 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:30:22,072 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:31:10,824 [Worker-276: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:31:10,825 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:31:10,826 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:31:10,828 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:31:10,828 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:38:26,223 [Worker-290: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:38:26,227 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:38:26,227 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:38:26,229 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:38:26,229 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:47:49,763 [Worker-293: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:47:49,767 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:47:49,767 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:47:49,768 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:47:49,769 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:51:35,050 [Worker-294: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:51:35,633 [Worker-294: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kirahomestation:Prueba_JUnit:0.0.1-SNAPSHOT @ C:\Users\Kira\eclipse-workspace\Prueba_JUnit\pom.xml.
+2021-02-10 19:51:37,825 [Worker-294: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/pl/pragmatists/JUnitParams/1.0.4/JUnitParams-1.0.4.pom
+2021-02-10 19:51:38,054 [Worker-294: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/pl/pragmatists/JUnitParams/1.0.4/JUnitParams-1.0.4.pom
+2021-02-10 19:51:38,149 [Worker-294: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2021-02-10 19:51:38,200 [Worker-294: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2021-02-10 19:51:38,294 [Worker-294: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/pl/pragmatists/JUnitParams/1.0.4/JUnitParams-1.0.4.jar
+2021-02-10 19:51:38,438 [Worker-294: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/pl/pragmatists/JUnitParams/1.0.4/JUnitParams-1.0.4.jar
+2021-02-10 19:51:38,924 [Worker-294: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:51:39,200 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:51:39,200 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:51:39,202 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:51:39,202 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:51:42,102 [Worker-299: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:51:42,722 [Worker-299: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:51:42,722 [Worker-299: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:51:42,724 [Worker-299: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:51:42,724 [Worker-299: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:51:42,838 [Worker-301: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/pl/pragmatists/JUnitParams/1.0.4/JUnitParams-1.0.4-sources.jar
+2021-02-10 19:51:43,135 [Worker-301: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/pl/pragmatists/JUnitParams/1.0.4/JUnitParams-1.0.4-sources.jar
+2021-02-10 19:51:43,304 [Worker-301: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for pl.pragmatists:JUnitParams:1.0.4
+2021-02-10 19:51:43,764 [Worker-294: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:51:43,765 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:51:43,766 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:51:43,766 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:51:43,766 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:57:08,231 [Worker-297: Creating java11-junit5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\pom.xml
+2021-02-10 19:57:08,263 [Worker-297: Creating java11-junit5] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:57:08,364 [Worker-297: Creating java11-junit5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kirahomestation:PruebaJUnit_Empleado:0.0.1-SNAPSHOT @ C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\pom.xml.
+2021-02-10 19:57:08,732 [Worker-297: Creating java11-junit5] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:57:08,763 [Worker-297: Creating java11-junit5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PruebaJUnit_Empleado/src/main/java
+2021-02-10 19:57:08,774 [Worker-297: Creating java11-junit5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PruebaJUnit_Empleado/src/test/java
+2021-02-10 19:57:09,087 [Worker-297: Creating java11-junit5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-02-10 19:57:10,975 [Worker-304: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:57:10,978 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:57:10,979 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 19:57:10,980 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:57:10,980 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 19:57:43,237 [Worker-305: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:57:43,855 [Worker-305: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kirahomestation:Prueba_JUnit:0.0.1-SNAPSHOT @ C:\Users\Kira\eclipse-workspace\Prueba_JUnit\pom.xml.
+2021-02-10 19:57:43,942 [Worker-305: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:57:44,259 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:57:44,260 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:57:44,261 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:57:44,261 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 19:57:46,688 [Worker-305: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 19:57:46,692 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:57:46,692 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 19:57:46,694 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 19:57:46,694 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 20:00:03,298 [Worker-297: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:00:03,302 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:00:03,302 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:00:03,304 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:00:03,305 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:00:11,024 [Worker-305: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:00:11,027 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:00:11,027 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:00:11,029 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:00:11,029 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:00:34,313 [Worker-297: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:00:34,316 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:00:34,316 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:00:34,317 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:00:34,317 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:00:34,323 [Worker-297: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:00:34,325 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:00:34,326 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 20:00:34,327 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:00:34,327 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 20:00:44,569 [Worker-304: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:00:44,572 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:00:44,572 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 20:00:44,573 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:00:44,573 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 20:00:54,751 [Worker-304: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:00:54,754 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:00:54,754 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\main\resources
+2021-02-10 20:00:54,755 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:00:54,756 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\Prueba_JUnit\src\test\resources
+2021-02-10 20:02:58,581 [Worker-306: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:02:58,583 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:02:58,583 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:02:58,585 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:02:58,585 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:04:01,410 [Worker-297: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:04:01,412 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:04:01,412 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:04:01,413 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:04:01,413 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:05:06,863 [Worker-307: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:05:06,926 [Worker-307: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kirahomestation:PruebaJUnit_Empleado:0.0.1-SNAPSHOT @ C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\pom.xml.
+2021-02-10 20:05:07,302 [Worker-307: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:05:07,306 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:05:07,306 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:05:07,307 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:05:07,308 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:05:10,132 [Worker-306: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:05:10,135 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:05:10,136 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:05:10,137 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:05:10,138 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:05:28,911 [Worker-305: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:05:28,914 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:05:28,914 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:05:28,915 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:05:28,915 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:08:55,672 [Worker-313: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:08:55,675 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:08:55,675 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:08:55,676 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:08:55,676 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:23:56,920 [Worker-313: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:23:56,924 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:23:56,924 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:23:56,925 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:23:56,925 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:24:03,468 [Worker-311: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:24:03,471 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:24:03,471 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:24:03,472 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:24:03,472 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:24:30,479 [Worker-311: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:24:30,482 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:24:30,482 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:24:30,484 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:24:30,484 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:30:01,220 [Worker-313: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:30:01,223 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:30:01,223 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:30:01,224 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:30:01,225 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:34:36,980 [Worker-312: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:34:36,982 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:34:36,983 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:34:36,983 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:34:36,984 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
+2021-02-10 20:35:11,372 [Worker-313: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-02-10 20:35:11,375 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:35:11,375 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\main\resources
+2021-02-10 20:35:11,376 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 20:35:11,376 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kira\eclipse-workspace\PruebaJUnit_Empleado\src\test\resources
