@@ -1,4 +1,4 @@
-package boletinJUnit;
+package com.myproject.BoletinJUnit;
 
 import java.util.Collection;
 import java.util.HashSet;

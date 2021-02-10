@@ -1,4 +1,4 @@
-package boletinJUnit;
+package com.myproject.BoletinJUnit2;
 
 import java.text.*;
 /******************************************************************
